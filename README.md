@@ -35,6 +35,8 @@ Explored networking and system configuration.
 ### Haru – AI Morning Call Service (MVP)
 Built an AI-based morning call service.
 Designed and implemented an initial MVP and tested core interaction flow.
+https://haru.poapper.com/
+You can see this website for introduce
 
 ### Pine Wilt Disease Image Analysis
 Worked on an image-based classification system for pine wilt disease.
